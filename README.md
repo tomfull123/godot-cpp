@@ -61,7 +61,7 @@ is built with a version that provides all the necessary features by default.
 ## Contributing
 
 We greatly appreciate help in maintaining and extending this project. If you
-wish to help out, please visit the [godot-cpp section of the Contributing docs](https://contributing.godotengine.org/en/latest/other/godot-cpp.html).
+wish to help out, please visit the [godot-cpp section of the Contributing docs](https://contributing.godotengine.org/en/latest/development/other/godot-cpp.html).
 
 ## Getting started
 
